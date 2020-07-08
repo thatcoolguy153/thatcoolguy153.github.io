@@ -2,7 +2,3 @@ theme: jekyll-theme-cayman
 title: Welcome, hope you're ready to listen to some smooth Rad Any music. 
 description: Click to play the songs. 
 
-<video width="320" height="240" controls>
-  <source src="Rad'sfinest.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
